@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b2155560ea429f44a5cba049c71a6a7, type: 3}
+  m_Name: Bat_Data
+  m_EditorClassIdentifier: 
+  enemyID: bat_01
+  enemyName: Bat
+  battleSprite: {fileID: 309779283, guid: 737af2514fee91c4abc473fd1af4351c, type: 3}
+  combatAnimatorController: {fileID: 9100000, guid: b5be72a8a218bfd4482ad2d1c51f8eb2, type: 2}
+  maxHP: 50
+  baseAttack: 12
+  baseDefense: 5
+  baseMagicAttack: 0
+  baseMagicDefense: 5
+  baseSpeed: 15
+  isBoss: 0
+  abilities: []
+  xpReward: 200
+  basicAttackSound: {fileID: 8300000, guid: 863cb1541c2c18b4dbc765e8257ad6ea, type: 3}
+  takeHitSound: {fileID: 8300000, guid: 9ead53b838f0c9049aec77499156e087, type: 3}
+  defeatSound: {fileID: 8300000, guid: 37534d9927fbb804391a8e9070b109b3, type: 3}
+  potentialDrops:
+  - item: {fileID: 11400000, guid: 1c844bcc9e20a77498da009023e6166e, type: 2}
+    chance: 0.5
+  - item: {fileID: 11400000, guid: 58019a1e73a4b92499a20f7da1f308a9, type: 2}
+    chance: 0.5
+  - item: {fileID: 11400000, guid: d25694ee64cf0234f96bd355994a49ae, type: 2}
+    chance: 0.5
+  - item: {fileID: 11400000, guid: de267cee8e0ad91448557145e9f4355d, type: 2}
+    chance: 0.5
+  - item: {fileID: 11400000, guid: 8114146e4a4caa64fb8161d4ececafe4, type: 2}
+    chance: 0.5
+  - item: {fileID: 11400000, guid: 24a9d5cb4f0c71a49826747f8630c3bb, type: 2}
+    chance: 0.5

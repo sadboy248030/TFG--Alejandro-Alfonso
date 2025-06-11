@@ -1,0 +1,1 @@
+﻿{"inkVersion":21,"root":[["^\"¡Bienvenido, aventurero! Pareces cansado.\"","\n","^\"Permíteme restaurar tus fuerzas.\"","\n","ev",{"x()":"heal_party"},"pop","/ev","\n","^\"¡Listo! Tú y tus compañeros estáis como nuevos. ¡Que la luz te guíe en tu camino!\"","\n","end",["done",{"#f":5,"#n":"g-0"}],null],"done",{"#f":1}],"listDefs":{}}
