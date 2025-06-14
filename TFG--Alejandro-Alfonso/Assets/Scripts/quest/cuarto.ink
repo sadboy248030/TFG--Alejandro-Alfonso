@@ -1,1 +1,0 @@
-ya no tengo misiones para ti

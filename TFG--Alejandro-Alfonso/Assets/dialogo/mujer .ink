@@ -1,1 +1,0 @@
-No toques esa cesta, forastero. Vino de un trueque con una criatura encapuchada… dejó oro viejo y un olor a lluvia. Desde entonces, todo lo que guardo dentro se pudre en horas

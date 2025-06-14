@@ -1,1 +1,0 @@
-Fundí un anillo con un trozo de meteorito. Brilla como si estuviera vivo, pero nadie lo puede llevar más de un día. El último que lo intentó… se fue caminando hacia el bosque y no volvió

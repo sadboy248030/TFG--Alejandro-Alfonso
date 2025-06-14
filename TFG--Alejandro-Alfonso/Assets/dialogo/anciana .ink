@@ -1,1 +1,0 @@
-Estas flores no las planté yo. Salieron solas después de que enterramos al gato de mi nieta. Brillan por la noche… y a veces maúllan con el viento

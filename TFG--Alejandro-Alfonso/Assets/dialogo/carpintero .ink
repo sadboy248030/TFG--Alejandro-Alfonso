@@ -1,1 +1,0 @@
-Esa madera no es normal. La corté de un árbol que ardía sin fuego. Cada noche, escucho golpes en el taller, aunque esté vacío. La mesa que hice… sangra si la rascas.

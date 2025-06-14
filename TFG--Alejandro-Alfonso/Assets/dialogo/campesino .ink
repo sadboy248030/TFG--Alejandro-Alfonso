@@ -1,1 +1,0 @@
-Mis campos daban trigo dorado hasta que pasaron esos monjes encapuchados… desde entonces, la tierra está gris y los espantapájaros cambian de sitio solos
